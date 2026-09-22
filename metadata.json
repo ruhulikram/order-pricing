@@ -1,0 +1,6 @@
+{
+  "name": "Sneaker Care Price Estimator",
+  "description": "Custom sneaker cleaning and restoration price estimator with real-time calculations, Supabase order logging, and direct WhatsApp lead closing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
